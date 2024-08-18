@@ -1,5 +1,17 @@
-1. Create your own repositiory on GitHub
-2. Clone the repo
-3. Make Changes
-4. Commit code with message
-5. Push code to "main" branch
+Setting up Git: Have students install Git on their local machines and set up their Git user name and email address.
+
+Creating a Repository: Ask students to create a new Git repository on their local machine and initialize it with a README file.
+
+Making Commits: Provide students with a simple project or code files, and have them make several commits to the repository, adding new features or making changes to the existing code.
+
+Viewing Commit History: Have students practice viewing the commit history of their repository using the git log command.
+
+Branching and Merging: Give students a scenario where they need to create a new branch, make changes to the code, and then merge the branch back into the main branch.
+
+Resolving Merge Conflicts: Create a situation where students will encounter merge conflicts when merging branches, and have them resolve the conflicts.
+
+Cloning a Remote Repository: Provide students with a remote repository URL (e.g., from GitHub or GitLab), and have them clone the repository to their local machines.
+
+Pushing to a Remote Repository: Have students create a new remote repository (e.g., on GitHub or GitLab) and push their local repository to the remote repository.
+
+Collaborating with Others: Assign a group project where students need to collaborate on a codebase using Git. They can practice creating branches, making commits, and merging their changes.
